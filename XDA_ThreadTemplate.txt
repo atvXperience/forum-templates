@@ -1,0 +1,50 @@
+Thread title: [ROM][7.1][CHIPSET] atvXperience - The Ultimate Android TV Experience! [r30][2019/01/08]
+
+[CENTER]
+[img]https://preview.ibb.co/kmdL08/webbanner.png[/img]
+[SIZE="5"][b][color=#1a73e8]atvXperience for DeviceName/ChipsetName[/color][/b][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
+[SIZE="3"]atvXperience is an Android TV based ROM, with Google apps included and all exclusive atvXperience goodies (launcher, wallpapers, icons, fonts, bootanimation, apps)
+
+Our mission is to offer the maximum possible stability and security, along with essential features for the proper functioning of the device, not only that
+we offer the best Android TV Experience to you, running on your Amlogic TV Box.
+
+Based on Android 7.1
+[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Whats working?[/color][/b][/SIZE]
+[SIZE="3"]Wifi
+Camera
+Bluetooth
+LED
+Kodi
+Auto Frame-Rate
+All Google TV Apps
+Wi-Fi
+Remote[/SIZE]
+
+[font=Tahoma] [size=2][b][color=Red]Attention:
+I don't force you to use my ROM. It's stable and can be used as daily driver.
+If you don't like something, please ask me on how to remove/add it.
+I am doing my best to provide you the best ATV Experience.[/color][/b][/size]
+
+[SIZE="4"][b][color=#1a73e8]Known issues[/color][/b][/SIZE]
+[SIZE="3"]None[/SIZE]
+
+[SIZE="3"][url="https://download.atvxperience.com/DEVICE_CHIPSET/"][b][color=#1a73e8][u]Download from atvXperience website[/u][/color][/b][/url][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
+[SIZE="3"][url="https://paypal.me/atvXperience"][b][color=#1a73e8][u]Liked our work? Get me a coffee[/u][/color][/b][/url][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Facebook Page[/color][/b][/SIZE]
+[SIZE="3"][url="https://facebook.com/atvXperience"][b][color=#1a73e8][u]Stay tuned[/u][/color][/b][/url][/SIZE]
+[/CENTER]
+
+[LEFT][SIZE="3"][list]
+[*][b]Android OS version:[/b] 7.1.0_r30
+[*][b]Security patch level:[/b] January 2019
+[*][b]Build author:[/b] [url=https://forum.xda-developers.com/member.php?u=XDA_NUMERIC_ID]XDA_USERNAME[/url]
+[*][b]Source code:[/b] [url=https://github.com/atvXperience]https://github.com/atvXperience[/url]
+[*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=]{NAME}[/url]
+[/list][/SIZE][/LEFT]
